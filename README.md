@@ -14,8 +14,14 @@ Include the NAP_V1-0-0_files folder where you want to keep them in your projuct 
         <title>Audio Player Test</title>
     </head>
     <body style="background-color: black;"> 
-        <div id="audio_player">video/src|mime/type</div>
+        <div id="audio_player">audio/src|mime/type</div>
         <script src="path/to/NAP_V1-0-0_files/JS/NAP_V1-0-0.js"></script>
     </body> 
 </html>
+```
+
+As can be seen in the code, the way to create a player is to use the following code,
+
+```html
+<div id="audio-player">audio/src|mime/type</div>
 ```
