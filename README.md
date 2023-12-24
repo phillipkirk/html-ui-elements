@@ -45,4 +45,4 @@ As can be seen in the code, the way to create a player is to use the following c
 > | 2    | Green Background           |
 > | 3    | Red Background             |
 > | 4    | Yellow Background          |
-> | 5    | Colour Changing Background |
+> | 9    | Colour Changing Background |
