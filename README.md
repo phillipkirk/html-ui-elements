@@ -6,7 +6,7 @@ HTML Based audio player, can be used for static audio on a page or streamed audi
 
 Include the NAP_V1-0-0_files folder where you want to keep them in your projuct and link to them as so
 
-html```
+```html
 <!DOCTYPE html> 
 <html lang="en"> 
     <head>
