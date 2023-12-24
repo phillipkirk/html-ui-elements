@@ -34,7 +34,7 @@ As can be seen in the code, the way to create a player is to use the following c
 <div id="audio_player">audio/src|mime/type</div>
 ```
 > [!TIP]
-> The player has the following shortcut keys
+> The player has the following shortcut keys:
 >
 > | Key  | Use                        |
 > |:----:|:--------------------------:|
